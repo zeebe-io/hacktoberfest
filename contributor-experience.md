@@ -32,7 +32,7 @@ We will create a few archetypes.
 
 **First-timer**: The first-timer is someone who has never contributed to any open source project before. This is all new to them. They don't know how to "open a pull request", they are not sure if their contribution will be good enough to be accepted, and if they do take the plunge, how this pull request goes will determine how their entire open source contribution career goes. No pressure.
 
-**Seasoned Pro**: 
+**Seasoned Pro**: The seasoned pro is not only a solid developer who knows not only how to write good code, but also how open source works. They've done a bunch of PRs to various open-source projects, so they know what to expect. This person compares their experience with your project with their experience with other projects.
 
 ## Characteristics of External Contributors 
 

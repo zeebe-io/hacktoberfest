@@ -140,8 +140,7 @@ The lower the barrier to entry, the more people will cross over it.
 
 If you put links in your documentation so that someone can see something wrong or missing, click a link, correct it and submit a Pull Request, people are more likely to do it.
 
-If you make it a single click from your README to report a bug, with a template that they can fill out, people are more likely to do it. 
-@TODO: value prop to maintainer. 
+If you make it a single click from your README to report a bug, with a template that they can fill out, people are more likely to do it. This also makes your job easier, because you are not constantly going back to ask users for the details you need to triage and assess their issues / contributions. 
 
 If you want people to search existing bug reports first, then give them a link to the existing issues filter, with instructions to search, followed by a link to open a new issue.
 
@@ -149,7 +148,7 @@ If you want people to contribute code, you need to document how to develop the p
 
 Again, "_walk the floor_". Starting with a blank mind, approach the project as a new user. How easy is it to check out and build? Can you make it easier?
 
-This can be challenging, because your computer is configured to build the project, and may have dependencies or tools that are required, but not covered by your instructions. Again, this is a perfect opportunity to weave in  
+This can be challenging, because your computer is configured to build the project, and may have dependencies or tools that are required, but not covered by your instructions. Again, this is a perfect opportunity to weave in opportunities for people to contribute. You can make it explicit - "_if you find something missing in these instructions, feel free to submit a patch_".
 
 ### Acknowledgement
 

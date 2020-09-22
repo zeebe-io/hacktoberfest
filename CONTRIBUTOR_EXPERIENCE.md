@@ -175,3 +175,7 @@ When evaluating the Zeebe project as an external contributor, Josh submitted a p
 That went a long way to building confidence in the project, and that company decided to base their project on Zeebe.
 
 You can't always turn things around that fast, but you can acknowledge receipt and set an expectation. Automation is your friend in this case. You can create a "Contributor SLA" and create automation to trigger reminders.
+
+## Conclusion
+
+You can get code contributions through Hacktoberfest, but if you take care of the person who makes the contribution, you can get a contributor. And *that* is way more valuable.
